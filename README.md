@@ -2,7 +2,10 @@
 Client and server demonstrating concurrency in the transmission and handling of requests.
 
 ## Screens
+Client:
 ![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Demo/Client.PNG)
+
+Server:
 ![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Demo/Server.PNG)
 
 ## Build Strings
