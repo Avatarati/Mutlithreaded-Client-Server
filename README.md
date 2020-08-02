@@ -2,6 +2,8 @@
 Client and server demonstrating concurrency in the transmission and handling of requests.
 
 ## Screens
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Demo/Client.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Demo/Server.PNG)
 
 ## Build Strings
 * javac Client.java CClient.java ClientIO.java
@@ -28,3 +30,9 @@ The server listens for traffic on a supplied port. Upon receive, it will accept 
 
 ## Testing
 The server is able to process several concurrent requests at once. Testing on a community university server revealed a considerable breakdown in server response after 25 concurrent connections. The goal of the project was to explore how well the server was able to handle multiple requests given 1, 5, 10, 15, 20, 25, and 100 concurrent connections.
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/DateTime.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/Uptime.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/Memory.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/Users.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/Processes.PNG)
+![alt text](https://raw.githubusercontent.com/Avatarati/Mutlithreaded-Client-Server/master/Testing/NetStat.PNG)
