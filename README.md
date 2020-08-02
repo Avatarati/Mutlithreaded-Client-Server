@@ -1,5 +1,7 @@
 # Multi-Threaded Client and Server
-Client and server demonstrating concurrency in the transmission and handling of requests.
+Client and server demonstrating concurrency in the transmission and handling of requests. 
+
+#### *Coding style is Allman layout with UpperCamelCase. This is just my preference for personal projects.*
 
 ## Screens
 ### Client
